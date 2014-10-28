@@ -43,6 +43,18 @@ a {
 	text-decoration: none;
 }
 
+.navbar a:hover {
+	font-weight:bold;
+}
+
+.navbar a:visited {
+	color:white;
+}
+
+.navbar2 a:hover {
+	color:blue;
+}
+
 #menu {
 	float:left;
 	margin-top:5px;
